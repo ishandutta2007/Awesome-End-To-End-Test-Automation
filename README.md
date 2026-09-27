@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Test-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-End-To-End-Test-Automation?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Test-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-End-To-End-Test-Automation?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Test-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-End-To-End-Test-Automation?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -50,7 +50,7 @@ Below is a comparison of top commercial E2E testing SaaS products, sorted descen
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source E2E testing frameworks, tools, and libraries, sorted descending by GitHub Star Count.
+Below are top open-source E2E testing frameworks, tools, and libraries, sorted descending by GitHub Stars_Count.
 
 - **[Playwright](https://github.com/microsoft/playwright)** [<img src="https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white" alt="Playwright Stars"/>](https://github.com/microsoft/playwright/stargazers) ⚡
   Node.js, Python, Java, and .NET library to automate Chromium, Firefox, and WebKit with a single API. Built by Microsoft. Offers auto-waiting, trace viewer, network interception, and web-first assertions. *(Apache-2.0)*
