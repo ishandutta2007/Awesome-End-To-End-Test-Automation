@@ -106,6 +106,9 @@ Below are top open-source E2E testing frameworks, tools, and libraries, sorted d
 - **[reg-suit](https://github.com/reg-viz/reg-suit)** [<img src="https://img.shields.io/github/stars/reg-viz/reg-suit?style=social&color=white" alt="reg-suit Stars"/>](https://github.com/reg-viz/reg-suit/stargazers) 🎯
   Visual regression testing CLI tool that compares snapshots, stores images on S3/GCS, and sends report notifications directly to GitHub PRs. *(MIT)*
 
+- **[agent-qa](https://github.com/vostride/agent-qa)** [<img src="https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white" alt="agent-qa Stars"/>](https://github.com/vostride/agent-qa) 🧪
+  Natural-language web, Android and iOS QA through CLI/MCP, with advanced memidex memory and evidence-based test improvement. [GitHub](https://github.com/vostride/agent-qa). Free CLI; model usage costs apply. *(FSL-1.1-ALv2)*
+
 ---
 
 ## 🤝 How to Contribute
